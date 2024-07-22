@@ -66,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
 4. **Compile contracts**
 
     ```sh
-    npx hardhat compile
+    yarn hardhat compile
     ```
 
 ## Project Structure
